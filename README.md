@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leago509&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leago509&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=leago509&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+[![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leago509&theme=tokyo-night&hide_border=true)](https://github.com/leago509)
 ---
 
 ### 📫 Connect
