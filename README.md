@@ -1,6 +1,6 @@
 ### Hey, I'm Abdullah Safras 👋
 
-**Computer Science graduate**, full-stack developer, and lifelong gamer who loves building on the fly. Between gaming sessions and sketching out new ideas, I build web apps, decentralized platforms, and automated backends—while exploring **IoT** and working my way into **game development**.
+**Computer Science student **, full-stack developer, and lifelong gamer who loves building on the fly. Between gaming sessions and sketching out new ideas, I build web apps, decentralized platforms, and automated backends—while exploring **IoT** and working my way into **game development**.
 
 ---
 
